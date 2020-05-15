@@ -1,4 +1,4 @@
-const parse = require('../src/index.js');
+const parse = require('../index.js');
 const fs = require('fs');
 
 const source = fs.readFileSync('./demo.js');
