@@ -1,5 +1,5 @@
-const iterable = require('./iterable.js');
-const compile = require('./compile.js');
+const iterable = require('./src/iterable.js');
+const compile = require('./src/compile.js');
 
 /**
  * @main Function
